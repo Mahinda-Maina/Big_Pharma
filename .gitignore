@@ -22,3 +22,17 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Laravel
+/vendor
+/node_modules
+.env
+/storage/*.key
+
+# Angular
+pharmacy-frontend/node_modules
+pharmacy-frontend/dist
+
+# OS
+.DS_Store
+Thumbs.db
